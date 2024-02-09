@@ -1,3 +1,21 @@
+#MY WORKING STUFF
+
+This project is a counter where it can be increased or decreased by pressing the addition or subtraction sign. If you want to change increments can do so in the body of the code.
+
+#HOW TO RUN THIS APP
+
+Download from GITHUB
+
+In the terminal in your VSCODE or IDE install all packages by typing npm i
+
+Then run project by typing npm run start
+
+Project will open in server on the web
+
+#VERSION CONTROL
+
+created main branch
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +86,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # react-redux-counter
